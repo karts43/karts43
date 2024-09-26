@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karts43
+- 👋 Hi, I’m kartik
 - 👀 I’m interested in java developer And salesforce developer
 - 🌱 I’m currently learning B.E (CSE) 
 - 💞️ I’m looking to collaborate on ...
