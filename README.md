@@ -3,7 +3,7 @@
 - 👀 I’m passionate about **Java development** and **Salesforce development**.
 - 🌱 I’m currently pursuing a **Bachelor of Engineering in Computer Science (B.E - CSE)**.
 - 💞️ I’m open to collaborating on **Java projects**, **Salesforce apps**, or **open-source initiatives**.
-- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin/) or email: 
+- 📫 Feel free to reach out to me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Every line of code is a step toward innovation.
 
