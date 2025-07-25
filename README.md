@@ -1,12 +1,14 @@
-- 👋 Hi, I’m kartik shinde
-- 👀 I’m interested in java developer And salesforce developer
-- 🌱 I’m currently learning B.E (CSE) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Kartik Shinde
+
+- 👀 I’m passionate about **Java development** and **Salesforce development**.
+- 🌱 I’m currently pursuing a **Bachelor of Engineering in Computer Science (B.E - CSE)**.
+- 💞️ I’m open to collaborating on **Java projects**, **Salesforce apps**, or **open-source initiatives**.
+- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin/) or email: 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Every line of code is a step toward innovation.
+
+---
 
 <!---
 karts43/karts43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
